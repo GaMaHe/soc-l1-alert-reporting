@@ -18,3 +18,8 @@ A sensitive HR document containing employee records was shared externally to a n
 
 ## Assessment
 The activity represents a confirmed policy violation involving sensitive data exposure. While no further indicators of compromise were observed, the nature of the data requires escalation and compliance involvement.
+
+## Evidence
+
+- Alert details and metadata: `evidence/alert-details.png`
+- Analyst comment and escalation notes: `evidence/analyst-comment.png`
