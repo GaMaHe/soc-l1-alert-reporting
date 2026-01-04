@@ -38,3 +38,7 @@ The presence of a compressed attachment (RAR) combined with urgency-based langua
 
 ## Assessment
 Based on authentication failures, impersonation indicators, and the presence of a suspicious attachment, the email is highly likely to be malicious.
+
+## Evidence
+- Alert details and metadata: evidence/alert-details.png
+- Analyst comment and escalation notes: evidence/analyst-comment.png
